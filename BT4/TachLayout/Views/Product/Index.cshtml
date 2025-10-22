@@ -1,0 +1,116 @@
+﻿@model IEnumerable<TachLayout.Models.SanPham>
+@{
+    Layout = "_Layout";
+    ViewBag.PageName = "Products";
+}
+
+<div id="templatemo_main_wrapper">
+    <div id="templatemo_main">
+        <!-- Sidebar -->
+        <div id="sidebar" class="left">
+            <div class="sidebar_box">
+                <span class="bottom"></span>
+                <h3>Categories</h3>
+                <div class="content">
+                    <ul class="sidebar_list">
+                        <li><a href="#">Nulla odio ipsum</a></li>
+                        <li><a href="#">Suspendisse posuere</a></li>
+                        <li><a href="#">Aliquam euismod</a></li>
+                        <li><a href="#">Curabitur ac mauris</a></li>
+                        <li><a href="#">Mauris nulla tortor</a></li>
+                        <li><a href="#">Nullam ultrices</a></li>
+                        <li><a href="#">Vivamus scelerisque</a></li>
+                        <li><a href="#">Suspendisse posuere</a></li>
+                        <li><a href="#">Quisque vel justo</a></li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="sidebar_box">
+                <span class="bottom"></span>
+                <h3>Weekly Special</h3>
+                <div class="content special">
+                    <img src="~/images/templatemo_image_01.jpg" alt="Flowers" />
+                    <a href="#">Citrus Burst Bouquet</a>
+                    <p>
+                        Price:
+                        <span class="price normal_price">$160</span>&nbsp;&nbsp;
+                        <span class="price special_price">$100</span>
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Main Content -->
+        <div id="content" class="right">
+            <h2>Products</h2>
+            <p>
+                Cras aliquam, mi nec imperdiet volutpat, ligula est consequat odio, eu auctor urna augue eu quam.
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis bibendum nec nunc ac hendrerit.
+            </p>
+
+            @if (Model != null && Model.Any())
+            {
+                int productCount = 0;
+                foreach (var item in Model)
+                {
+                    // Đường dẫn hình ảnh
+                    string imagePath = "~/images/product/default.jpg";
+                    if (!string.IsNullOrEmpty(item.Hinh))
+                    {
+                        if (item.Hinh.StartsWith("/images/") || item.Hinh.StartsWith("~"))
+                        {
+                            imagePath = item.Hinh;
+                        }
+                        else
+                        {
+                            imagePath = "~/images/product/" + item.Hinh;
+                        }
+                    }
+
+                    // Giá hiển thị
+                    decimal giaHienThi = (item.GiaKm.HasValue && item.GiaKm.Value > 0)
+                    ? item.GiaKm.Value
+                    : item.Gia;
+
+                    <div class="product_box @(productCount % 4 == 3 ? "no_margin_right" : "")">
+                        <a href="@Url.Action("Details", "Product", new { id = item.MaSp })">
+                            <img src="@Url.Content(imagePath)" width="165" height="165"
+                                 alt="@item.TenSp"
+                                 onerror="this.onerror=null;this.src='@Url.Content("~/images/product/default.jpg")';" />
+                        </a>
+                        <h3>@item.TenSp</h3>
+                        <p class="product_price">@String.Format("{0:N0} đồng", giaHienThi)</p>
+                        <p class="add_to_cart">
+                            <a href="@Url.Action("Details", "Product", new { id = item.MaSp })">Detail</a>
+                            <a href="@Url.Action("AddToCart", "ShoppingCart", new { id = item.MaSp })">Add to Cart</a>
+                        </p>
+                    </div>
+
+                    productCount++;
+                    if (productCount % 4 == 0)
+                    {
+                        <div class="cleaner"></div>
+                    }
+                }
+            }
+            else
+            {
+                <p>Không có sản phẩm nào để hiển thị.</p>
+            }
+
+            <div class="blank_box">
+                <a href="#" class="button left">Previous</a>
+                <a href="#" class="button right">Next Page</a>
+            </div>
+
+            <div class="cleaner h20"></div>
+
+            <div class="blank_box">
+                <a href="#"><img src="~/images/free_shipping.jpg" alt="Free Shipping" /></a>
+            </div>
+        </div>
+
+        <div class="cleaner"></div>
+    </div>
+</div>
