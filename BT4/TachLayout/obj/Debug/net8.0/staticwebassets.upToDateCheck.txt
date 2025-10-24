@@ -4,6 +4,7 @@ wwwroot\checkout.html
 wwwroot\composer.json
 wwwroot\contact.html
 wwwroot\css\ddsmoothmenu.css
+wwwroot\css\login.css
 wwwroot\css\nivo-slider.css
 wwwroot\css\orman.css
 wwwroot\css\slimbox2.css
@@ -118,3 +119,4 @@ wwwroot\products.html
 wwwroot\shoppingcart.html
 wwwroot\templatemo_style.css
 wwwroot\test.html
+wwwroot\css\loginpartial.css

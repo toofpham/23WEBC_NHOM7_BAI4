@@ -27,9 +27,9 @@ http://www.templatemo.com/preview/templatemo_385_floral_shop
     />
 
     <link rel="stylesheet" type="text/css" href="css/ddsmoothmenu.css" />
-
-    <script type="text/javascript" src="js/jquery.min.js"></script>
-    <script type="text/javascript" src="js/ddsmoothmenu.js">
+    <!-- Bootstrap 5 -->
+    <script type="text/javascript" src="~/js/jquery.min.js"></script>
+    <script type="text/javascript" src="~/js/ddsmoothmenu.js">
 
       /***********************************************
       * Smooth Navigational Menu- (c) Dynamic Drive DHTML code library (www.dynamicdrive.com)
@@ -53,17 +53,20 @@ http://www.templatemo.com/preview/templatemo_385_floral_shop
       }
     </script>
 
-    <script type="text/javascript" src="js/jquery-1-4-2.min.js"></script>
+    <script type="text/javascript" src="~/js/jquery-1-4-2.min.js"></script>
     <link
       rel="stylesheet"
       href="css/slimbox2.css"
       type="text/css"
       media="screen"
     />
-    <script type="text/JavaScript" src="js/slimbox2.js"></script>
+    <script type="text/JavaScript" src="~/js/slimbox2.js"></script>
   </head>
 
   <body>
+    <div>
+        @Html.Partial("_LoginPartial")
+    </div>
     @if (ViewData["PageName"]?.ToString() == "Home")
     {
         <div id="templatemo_wrapper_h">

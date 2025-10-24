@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TachLayout")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba357b4ed73fd837d54e2b9c9027e54d2d29b892")]
 [assembly: System.Reflection.AssemblyProductAttribute("TachLayout")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TachLayout")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,32 @@
+﻿@{
+    ViewData["Title"] = "Đăng nhập";
+}
+
+<link rel="stylesheet" href="~/css/login.css" />
+
+<div class="login-container">
+    <div class="login-box">
+        <h2 class="login-title">Đăng nhập vào MyShop</h2>
+
+        <form asp-action="Login" method="post">
+            <div class="form-group">
+                <label for="username">Tên đăng nhập</label>
+                <input type="text" id="username" name="username" required placeholder="Nhập tên đăng nhập" />
+            </div>
+
+            <div class="form-group">
+                <label for="password">Mật khẩu</label>
+                <input type="password" id="password" name="password" required placeholder="Nhập mật khẩu" />
+            </div>
+
+            <button type="submit" class="login-btn">Đăng nhập</button>
+
+            <p class="error">@ViewBag.Error</p>
+        </form>
+
+        <p class="signup-link">
+            Bạn chưa có tài khoản?
+            <a href="#">Đăng ký ngay</a>
+        </p>
+    </div>
+</div>

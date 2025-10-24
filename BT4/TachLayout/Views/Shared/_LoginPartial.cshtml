@@ -1,0 +1,32 @@
+﻿<!-- _LoginPartial.cshtml -->
+<!-- Duy Khang tạo - Thanh navbar login -->
+<link rel="stylesheet" href="~/css/loginpartial.css" />
+
+<nav class="login-navbar">
+    <div class="login-navbar-left">
+        <a asp-controller="Home" asp-action="Index" class="brand">Cửa Hàng Hoa - Demo EnTiTy FrameWork</a>
+    </div>
+
+    <div class="login-navbar-right">
+        @{
+            var userName = Context.Session.GetString("UserName");
+            var role = Context.Session.GetString("Role");
+        }
+
+        @if (string.IsNullOrEmpty(userName))
+        {
+            <a asp-controller="Account" asp-action="Login" class="btn login-btn">Đăng nhập</a>
+        }
+        else
+        {
+            <span class="welcome">Xin chào, <strong>@userName</strong></span>
+
+            @if (role == "Admin")
+            {
+                <a asp-area="Admin" asp-controller="Admin" asp-action="Index" class="btn admin-btn">Trang quản trị</a>
+            }
+
+            <a asp-controller="Account" asp-action="Logout" class="btn logout-btn">Đăng xuất</a>
+        }
+    </div>
+</nav>

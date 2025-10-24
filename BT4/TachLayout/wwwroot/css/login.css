@@ -1,0 +1,99 @@
+﻿/* login.css */
+/* Duy Khang tạo - Form đăng nhập */
+
+body {
+    background-color: #f2f2f2;
+    font-family: "Segoe UI", Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.login-box {
+    background-color: #fff;
+    width: 350px;
+    padding: 30px 25px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    text-align: left;
+}
+
+.login-title {
+    font-size: 22px;
+    font-weight: 600;
+    color: #111;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.form-group {
+    margin-bottom: 18px;
+}
+
+    .form-group label {
+        display: block;
+        font-weight: 500;
+        font-size: 14px;
+        margin-bottom: 5px;
+        color: #111;
+    }
+
+    .form-group input {
+        width: 100%;
+        padding: 8px 10px;
+        font-size: 14px;
+        border: 1px solid #a6a6a6;
+        border-radius: 4px;
+        box-sizing: border-box;
+        transition: border-color 0.3s;
+    }
+
+        .form-group input:focus {
+            border-color: #e77600;
+            outline: none;
+            box-shadow: 0 0 4px rgba(231, 118, 0, 0.4);
+        }
+
+.login-btn {
+    width: 100%;
+    padding: 10px;
+    font-size: 15px;
+    background-color: #f0c14b;
+    border: 1px solid #a88734;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+    .login-btn:hover {
+        background-color: #ddb347;
+    }
+
+.error {
+    color: #b12704;
+    font-size: 13px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.signup-link {
+    margin-top: 20px;
+    font-size: 13px;
+    text-align: center;
+}
+
+    .signup-link a {
+        color: #0066c0;
+        text-decoration: none;
+    }
+
+        .signup-link a:hover {
+            text-decoration: underline;
+        }
