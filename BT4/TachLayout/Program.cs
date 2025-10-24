@@ -1,6 +1,8 @@
 using TachLayout.Models;
 using System;
 using Microsoft.EntityFrameworkCore;
+using TachLayout.Services;
+
 namespace TachLayout
 {
     public class Program
@@ -12,8 +14,10 @@ namespace TachLayout
             // Add services to the container.
             builder.Services.AddControllersWithViews();
 
+            builder.Services.AddScoped<WebSettingService>();
+
             builder.Services.AddDbContext<QuanLyBanHangContext>(option =>
-            option.UseSqlServer(builder.Configuration.GetConnectionString("QuanLyBanHangConnection")));
+            option.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
             
 
             var app = builder.Build();

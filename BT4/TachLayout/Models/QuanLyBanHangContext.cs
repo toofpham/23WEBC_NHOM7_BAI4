@@ -33,7 +33,7 @@ public partial class QuanLyBanHangContext : DbContext
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
 #warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see https://go.microsoft.com/fwlink/?LinkId=723263.
-        => optionsBuilder.UseSqlServer("Data Source=YOUNGTOOF;Initial Catalog=QuanLyBanHang;Integrated Security=True;Connect Timeout=30;Encrypt=True;Trust Server Certificate=True;Application Intent=ReadWrite;Multi Subnet Failover=False;Command Timeout=30");
+        => optionsBuilder.UseSqlServer("Data Source=.;Initial Catalog=QuanLyBanHang;Integrated Security=True;Connect Timeout=30;Encrypt=True;Trust Server Certificate=True;Application Intent=ReadWrite;Multi Subnet Failover=False;Command Timeout=30");
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
@@ -188,7 +188,7 @@ public partial class QuanLyBanHangContext : DbContext
             entity.Property(e => e.WebSettingId).HasColumnName("WebSettingID");
             entity.Property(e => e.DiaChi).HasMaxLength(255);
             entity.Property(e => e.Email).HasMaxLength(255);
-            entity.Property(e => e.Hotline).HasMaxLength(20);
+            entity.Property(e => e.HotLine).HasMaxLength(20);
             entity.Property(e => e.Logo).HasMaxLength(255);
             entity.Property(e => e.TenSite).HasMaxLength(255);
         });
