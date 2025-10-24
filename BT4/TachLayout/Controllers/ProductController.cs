@@ -5,6 +5,7 @@ namespace TachLayout.Controllers
     [Route("products")]
     public class ProductController : Controller
     {
+        // Tiêm QuanLyBanHangContext vào để sử dụng tương tác với bảng SanPham
         private readonly QuanLyBanHangContext _context;
         public ProductController(QuanLyBanHangContext context)
         {
@@ -17,6 +18,7 @@ namespace TachLayout.Controllers
             ViewData["Title"] = "Sản phẩm";
             ViewData["PageName"] = "Products";
 
+            // Lấy danh sách sản phẩm từ cơ sở dữ liệu
             var products = _context.SanPhams.ToList();
             return View(products);
         }
@@ -27,6 +29,7 @@ namespace TachLayout.Controllers
             ViewData["Title"] = "Chi tiết sản phẩm";
             ViewData["PageName"] = "ProductDetails";
 
+            // Tìm sản phẩm theo id
             var products = _context.SanPhams.FirstOrDefault(p => p.MaSp == id);
             if (products == null)
             {

@@ -8,6 +8,7 @@ namespace TachLayout.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
+        // Tiêm QuanLyBanHangContext vào để sử dụng tương tác với bảng SanPham
         private readonly QuanLyBanHangContext _context;
 
         public HomeController(ILogger<HomeController> logger , QuanLyBanHangContext context)
@@ -22,6 +23,7 @@ namespace TachLayout.Controllers
             ViewData["Title"] = "Trang chủ";
             ViewData["PageName"] = "Home";
 
+            // Lấy danh sách sản phẩm từ cơ sở dữ liệu
             var products = _context.SanPhams.ToList();
             return View(products);
         }

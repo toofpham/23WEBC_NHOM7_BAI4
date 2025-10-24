@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CDTH23WEBC\\Năm 3\\HK1\\ASP.Net Core\\22_10\\Làm lại EF cho flower store\\23WEBC_NHOM7_BAI4\\BT4\\TachLayout\\TachLayout.csproj": {}
+    "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom4\\BT4\\TachLayout\\TachLayout.csproj": {}
   },
   "projects": {
-    "D:\\CDTH23WEBC\\Năm 3\\HK1\\ASP.Net Core\\22_10\\Làm lại EF cho flower store\\23WEBC_NHOM7_BAI4\\BT4\\TachLayout\\TachLayout.csproj": {
+    "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom4\\BT4\\TachLayout\\TachLayout.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CDTH23WEBC\\Năm 3\\HK1\\ASP.Net Core\\22_10\\Làm lại EF cho flower store\\23WEBC_NHOM7_BAI4\\BT4\\TachLayout\\TachLayout.csproj",
+        "projectUniqueName": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom4\\BT4\\TachLayout\\TachLayout.csproj",
         "projectName": "TachLayout",
-        "projectPath": "D:\\CDTH23WEBC\\Năm 3\\HK1\\ASP.Net Core\\22_10\\Làm lại EF cho flower store\\23WEBC_NHOM7_BAI4\\BT4\\TachLayout\\TachLayout.csproj",
-        "packagesPath": "C:\\Users\\quochung0810\\.nuget\\packages\\",
-        "outputPath": "D:\\CDTH23WEBC\\Năm 3\\HK1\\ASP.Net Core\\22_10\\Làm lại EF cho flower store\\23WEBC_NHOM7_BAI4\\BT4\\TachLayout\\obj\\",
+        "projectPath": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom4\\BT4\\TachLayout\\TachLayout.csproj",
+        "packagesPath": "C:\\Users\\nhatl\\.nuget\\packages\\",
+        "outputPath": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom4\\BT4\\TachLayout\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\quochung0810\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\nhatl\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

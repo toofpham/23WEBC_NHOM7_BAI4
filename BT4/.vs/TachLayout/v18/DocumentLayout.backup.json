@@ -1,81 +1,81 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\CDTH23WEBC\\N\u0103m 3\\HK1\\ASP.Net Core\\22_10\\L\u00E0m l\u1EA1i EF cho flower store\\23WEBC_NHOM7_BAI4\\BT4\\",
+  "WorkspaceRootPath": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom4\\BT4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|d:\\cdth23webc\\n\u0103m 3\\hk1\\asp.net core\\22_10\\l\u00E0m l\u1EA1i ef cho flower store\\23webc_nhom7_bai4\\bt4\\tachlayout\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|d:\\ckc\\nam3hk1\\aspnet core\\23webc_nhom7\\baitapnhom4\\bt4\\tachlayout\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|solutionrelative:tachlayout\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|d:\\cdth23webc\\n\u0103m 3\\hk1\\asp.net core\\22_10\\l\u00E0m l\u1EA1i ef cho flower store\\23webc_nhom7_bai4\\bt4\\tachlayout\\models\\quanlybanhangcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|d:\\ckc\\nam3hk1\\aspnet core\\23webc_nhom7\\baitapnhom4\\bt4\\tachlayout\\models\\quanlybanhangcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|solutionrelative:tachlayout\\models\\quanlybanhangcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|d:\\cdth23webc\\n\u0103m 3\\hk1\\asp.net core\\22_10\\l\u00E0m l\u1EA1i ef cho flower store\\23webc_nhom7_bai4\\bt4\\tachlayout\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|d:\\ckc\\nam3hk1\\aspnet core\\23webc_nhom7\\baitapnhom4\\bt4\\tachlayout\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|solutionrelative:tachlayout\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|d:\\cdth23webc\\n\u0103m 3\\hk1\\asp.net core\\22_10\\l\u00E0m l\u1EA1i ef cho flower store\\23webc_nhom7_bai4\\bt4\\tachlayout\\wwwroot\\css\\loginpartial.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|d:\\ckc\\nam3hk1\\aspnet core\\23webc_nhom7\\baitapnhom4\\bt4\\tachlayout\\wwwroot\\css\\loginpartial.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|solutionrelative:tachlayout\\wwwroot\\css\\loginpartial.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|d:\\cdth23webc\\n\u0103m 3\\hk1\\asp.net core\\22_10\\l\u00E0m l\u1EA1i ef cho flower store\\23webc_nhom7_bai4\\bt4\\tachlayout\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|d:\\ckc\\nam3hk1\\aspnet core\\23webc_nhom7\\baitapnhom4\\bt4\\tachlayout\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|solutionrelative:tachlayout\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|d:\\cdth23webc\\n\u0103m 3\\hk1\\asp.net core\\22_10\\l\u00E0m l\u1EA1i ef cho flower store\\23webc_nhom7_bai4\\bt4\\tachlayout\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|d:\\ckc\\nam3hk1\\aspnet core\\23webc_nhom7\\baitapnhom4\\bt4\\tachlayout\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|solutionrelative:tachlayout\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|d:\\cdth23webc\\n\u0103m 3\\hk1\\asp.net core\\22_10\\l\u00E0m l\u1EA1i ef cho flower store\\23webc_nhom7_bai4\\bt4\\tachlayout\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|d:\\ckc\\nam3hk1\\aspnet core\\23webc_nhom7\\baitapnhom4\\bt4\\tachlayout\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|solutionrelative:tachlayout\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|d:\\cdth23webc\\n\u0103m 3\\hk1\\asp.net core\\22_10\\l\u00E0m l\u1EA1i ef cho flower store\\23webc_nhom7_bai4\\bt4\\tachlayout\\wwwroot\\css\\nivo-slider.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|d:\\ckc\\nam3hk1\\aspnet core\\23webc_nhom7\\baitapnhom4\\bt4\\tachlayout\\wwwroot\\css\\nivo-slider.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|solutionrelative:tachlayout\\wwwroot\\css\\nivo-slider.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|d:\\cdth23webc\\n\u0103m 3\\hk1\\asp.net core\\22_10\\l\u00E0m l\u1EA1i ef cho flower store\\23webc_nhom7_bai4\\bt4\\tachlayout\\wwwroot\\css\\ddsmoothmenu.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|d:\\ckc\\nam3hk1\\aspnet core\\23webc_nhom7\\baitapnhom4\\bt4\\tachlayout\\wwwroot\\css\\ddsmoothmenu.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|solutionrelative:tachlayout\\wwwroot\\css\\ddsmoothmenu.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|d:\\cdth23webc\\n\u0103m 3\\hk1\\asp.net core\\22_10\\l\u00E0m l\u1EA1i ef cho flower store\\23webc_nhom7_bai4\\bt4\\tachlayout\\areas\\admin\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|d:\\ckc\\nam3hk1\\aspnet core\\23webc_nhom7\\baitapnhom4\\bt4\\tachlayout\\areas\\admin\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|solutionrelative:tachlayout\\areas\\admin\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|d:\\cdth23webc\\n\u0103m 3\\hk1\\asp.net core\\22_10\\l\u00E0m l\u1EA1i ef cho flower store\\23webc_nhom7_bai4\\bt4\\tachlayout\\filters\\adminauthorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|d:\\ckc\\nam3hk1\\aspnet core\\23webc_nhom7\\baitapnhom4\\bt4\\tachlayout\\filters\\adminauthorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|solutionrelative:tachlayout\\filters\\adminauthorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|d:\\cdth23webc\\n\u0103m 3\\hk1\\asp.net core\\22_10\\l\u00E0m l\u1EA1i ef cho flower store\\23webc_nhom7_bai4\\bt4\\tachlayout\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|d:\\ckc\\nam3hk1\\aspnet core\\23webc_nhom7\\baitapnhom4\\bt4\\tachlayout\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|solutionrelative:tachlayout\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|d:\\cdth23webc\\n\u0103m 3\\hk1\\asp.net core\\22_10\\l\u00E0m l\u1EA1i ef cho flower store\\23webc_nhom7_bai4\\bt4\\tachlayout\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|d:\\ckc\\nam3hk1\\aspnet core\\23webc_nhom7\\baitapnhom4\\bt4\\tachlayout\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|solutionrelative:tachlayout\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|d:\\cdth23webc\\n\u0103m 3\\hk1\\asp.net core\\22_10\\l\u00E0m l\u1EA1i ef cho flower store\\23webc_nhom7_bai4\\bt4\\tachlayout\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|d:\\ckc\\nam3hk1\\aspnet core\\23webc_nhom7\\baitapnhom4\\bt4\\tachlayout\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|solutionrelative:tachlayout\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|d:\\cdth23webc\\n\u0103m 3\\hk1\\asp.net core\\22_10\\l\u00E0m l\u1EA1i ef cho flower store\\23webc_nhom7_bai4\\bt4\\tachlayout\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|d:\\ckc\\nam3hk1\\aspnet core\\23webc_nhom7\\baitapnhom4\\bt4\\tachlayout\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|solutionrelative:tachlayout\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|d:\\cdth23webc\\n\u0103m 3\\hk1\\asp.net core\\22_10\\l\u00E0m l\u1EA1i ef cho flower store\\23webc_nhom7_bai4\\bt4\\tachlayout\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|d:\\ckc\\nam3hk1\\aspnet core\\23webc_nhom7\\baitapnhom4\\bt4\\tachlayout\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|solutionrelative:tachlayout\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|d:\\cdth23webc\\n\u0103m 3\\hk1\\asp.net core\\22_10\\l\u00E0m l\u1EA1i ef cho flower store\\23webc_nhom7_bai4\\bt4\\tachlayout\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|d:\\ckc\\nam3hk1\\aspnet core\\23webc_nhom7\\baitapnhom4\\bt4\\tachlayout\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|solutionrelative:tachlayout\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|d:\\cdth23webc\\n\u0103m 3\\hk1\\asp.net core\\22_10\\l\u00E0m l\u1EA1i ef cho flower store\\23webc_nhom7_bai4\\bt4\\tachlayout\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|d:\\ckc\\nam3hk1\\aspnet core\\23webc_nhom7\\baitapnhom4\\bt4\\tachlayout\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|solutionrelative:tachlayout\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|d:\\cdth23webc\\n\u0103m 3\\hk1\\asp.net core\\22_10\\l\u00E0m l\u1EA1i ef cho flower store\\23webc_nhom7_bai4\\bt4\\tachlayout\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|d:\\ckc\\nam3hk1\\aspnet core\\23webc_nhom7\\baitapnhom4\\bt4\\tachlayout\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|solutionrelative:tachlayout\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -100,50 +100,47 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "loginpartial.css",
-              "DocumentMoniker": "D:\\CDTH23WEBC\\N\u0103m 3\\HK1\\ASP.Net Core\\22_10\\L\u00E0m l\u1EA1i EF cho flower store\\23WEBC_NHOM7_BAI4\\BT4\\TachLayout\\wwwroot\\css\\loginpartial.css",
+              "DocumentMoniker": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom4\\BT4\\TachLayout\\wwwroot\\css\\loginpartial.css",
               "RelativeDocumentMoniker": "TachLayout\\wwwroot\\css\\loginpartial.css",
-              "ToolTip": "D:\\CDTH23WEBC\\N\u0103m 3\\HK1\\ASP.Net Core\\22_10\\L\u00E0m l\u1EA1i EF cho flower store\\23WEBC_NHOM7_BAI4\\BT4\\TachLayout\\wwwroot\\css\\loginpartial.css",
+              "ToolTip": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom4\\BT4\\TachLayout\\wwwroot\\css\\loginpartial.css",
               "RelativeToolTip": "TachLayout\\wwwroot\\css\\loginpartial.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-10-24T09:47:01.741Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-24T09:47:01.741Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "login.css",
-              "DocumentMoniker": "D:\\CDTH23WEBC\\N\u0103m 3\\HK1\\ASP.Net Core\\22_10\\L\u00E0m l\u1EA1i EF cho flower store\\23WEBC_NHOM7_BAI4\\BT4\\TachLayout\\wwwroot\\css\\login.css",
+              "DocumentMoniker": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom4\\BT4\\TachLayout\\wwwroot\\css\\login.css",
               "RelativeDocumentMoniker": "TachLayout\\wwwroot\\css\\login.css",
-              "ToolTip": "D:\\CDTH23WEBC\\N\u0103m 3\\HK1\\ASP.Net Core\\22_10\\L\u00E0m l\u1EA1i EF cho flower store\\23WEBC_NHOM7_BAI4\\BT4\\TachLayout\\wwwroot\\css\\login.css",
+              "ToolTip": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom4\\BT4\\TachLayout\\wwwroot\\css\\login.css",
               "RelativeToolTip": "TachLayout\\wwwroot\\css\\login.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-10-24T09:46:13.689Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-24T09:46:13.689Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "QuanLyBanHangContext.cs",
-              "DocumentMoniker": "D:\\CDTH23WEBC\\N\u0103m 3\\HK1\\ASP.Net Core\\22_10\\L\u00E0m l\u1EA1i EF cho flower store\\23WEBC_NHOM7_BAI4\\BT4\\TachLayout\\Models\\QuanLyBanHangContext.cs",
+              "DocumentMoniker": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom4\\BT4\\TachLayout\\Models\\QuanLyBanHangContext.cs",
               "RelativeDocumentMoniker": "TachLayout\\Models\\QuanLyBanHangContext.cs",
-              "ToolTip": "D:\\CDTH23WEBC\\N\u0103m 3\\HK1\\ASP.Net Core\\22_10\\L\u00E0m l\u1EA1i EF cho flower store\\23WEBC_NHOM7_BAI4\\BT4\\TachLayout\\Models\\QuanLyBanHangContext.cs",
+              "ToolTip": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom4\\BT4\\TachLayout\\Models\\QuanLyBanHangContext.cs",
               "RelativeToolTip": "TachLayout\\Models\\QuanLyBanHangContext.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAA8wB8AAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T09:08:33.779Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-24T09:08:33.779Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\CDTH23WEBC\\N\u0103m 3\\HK1\\ASP.Net Core\\22_10\\L\u00E0m l\u1EA1i EF cho flower store\\23WEBC_NHOM7_BAI4\\BT4\\TachLayout\\appsettings.json",
+              "DocumentMoniker": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom4\\BT4\\TachLayout\\appsettings.json",
               "RelativeDocumentMoniker": "TachLayout\\appsettings.json",
-              "ToolTip": "D:\\CDTH23WEBC\\N\u0103m 3\\HK1\\ASP.Net Core\\22_10\\L\u00E0m l\u1EA1i EF cho flower store\\23WEBC_NHOM7_BAI4\\BT4\\TachLayout\\appsettings.json",
+              "ToolTip": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom4\\BT4\\TachLayout\\appsettings.json",
               "RelativeToolTip": "TachLayout\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-10-22T12:53:24.039Z",
               "EditorCaption": ""
@@ -152,196 +149,181 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "D:\\CDTH23WEBC\\N\u0103m 3\\HK1\\ASP.Net Core\\22_10\\L\u00E0m l\u1EA1i EF cho flower store\\23WEBC_NHOM7_BAI4\\BT4\\TachLayout\\Views\\Shared\\_LoginPartial.cshtml",
+              "DocumentMoniker": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom4\\BT4\\TachLayout\\Views\\Shared\\_LoginPartial.cshtml",
               "RelativeDocumentMoniker": "TachLayout\\Views\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "D:\\CDTH23WEBC\\N\u0103m 3\\HK1\\ASP.Net Core\\22_10\\L\u00E0m l\u1EA1i EF cho flower store\\23WEBC_NHOM7_BAI4\\BT4\\TachLayout\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom4\\BT4\\TachLayout\\Views\\Shared\\_LoginPartial.cshtml",
               "RelativeToolTip": "TachLayout\\Views\\Shared\\_LoginPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-24T09:24:19.574Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-24T09:24:19.574Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Login.cshtml",
-              "DocumentMoniker": "D:\\CDTH23WEBC\\N\u0103m 3\\HK1\\ASP.Net Core\\22_10\\L\u00E0m l\u1EA1i EF cho flower store\\23WEBC_NHOM7_BAI4\\BT4\\TachLayout\\Views\\Account\\Login.cshtml",
+              "DocumentMoniker": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom4\\BT4\\TachLayout\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "TachLayout\\Views\\Account\\Login.cshtml",
-              "ToolTip": "D:\\CDTH23WEBC\\N\u0103m 3\\HK1\\ASP.Net Core\\22_10\\L\u00E0m l\u1EA1i EF cho flower store\\23WEBC_NHOM7_BAI4\\BT4\\TachLayout\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom4\\BT4\\TachLayout\\Views\\Account\\Login.cshtml",
               "RelativeToolTip": "TachLayout\\Views\\Account\\Login.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-24T09:21:30.437Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-24T09:21:30.437Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "nivo-slider.css",
-              "DocumentMoniker": "D:\\CDTH23WEBC\\N\u0103m 3\\HK1\\ASP.Net Core\\22_10\\L\u00E0m l\u1EA1i EF cho flower store\\23WEBC_NHOM7_BAI4\\BT4\\TachLayout\\wwwroot\\css\\nivo-slider.css",
+              "DocumentMoniker": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom4\\BT4\\TachLayout\\wwwroot\\css\\nivo-slider.css",
               "RelativeDocumentMoniker": "TachLayout\\wwwroot\\css\\nivo-slider.css",
-              "ToolTip": "D:\\CDTH23WEBC\\N\u0103m 3\\HK1\\ASP.Net Core\\22_10\\L\u00E0m l\u1EA1i EF cho flower store\\23WEBC_NHOM7_BAI4\\BT4\\TachLayout\\wwwroot\\css\\nivo-slider.css",
+              "ToolTip": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom4\\BT4\\TachLayout\\wwwroot\\css\\nivo-slider.css",
               "RelativeToolTip": "TachLayout\\wwwroot\\css\\nivo-slider.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-10-24T09:37:56.857Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-24T09:37:56.857Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "ddsmoothmenu.css",
-              "DocumentMoniker": "D:\\CDTH23WEBC\\N\u0103m 3\\HK1\\ASP.Net Core\\22_10\\L\u00E0m l\u1EA1i EF cho flower store\\23WEBC_NHOM7_BAI4\\BT4\\TachLayout\\wwwroot\\css\\ddsmoothmenu.css",
+              "DocumentMoniker": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom4\\BT4\\TachLayout\\wwwroot\\css\\ddsmoothmenu.css",
               "RelativeDocumentMoniker": "TachLayout\\wwwroot\\css\\ddsmoothmenu.css",
-              "ToolTip": "D:\\CDTH23WEBC\\N\u0103m 3\\HK1\\ASP.Net Core\\22_10\\L\u00E0m l\u1EA1i EF cho flower store\\23WEBC_NHOM7_BAI4\\BT4\\TachLayout\\wwwroot\\css\\ddsmoothmenu.css",
+              "ToolTip": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom4\\BT4\\TachLayout\\wwwroot\\css\\ddsmoothmenu.css",
               "RelativeToolTip": "TachLayout\\wwwroot\\css\\ddsmoothmenu.css",
               "ViewState": "AgIAAFkAAAAAAAAAAAAgwHYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-10-24T09:37:59.606Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-24T09:37:59.606Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\CDTH23WEBC\\N\u0103m 3\\HK1\\ASP.Net Core\\22_10\\L\u00E0m l\u1EA1i EF cho flower store\\23WEBC_NHOM7_BAI4\\BT4\\TachLayout\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom4\\BT4\\TachLayout\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "TachLayout\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\CDTH23WEBC\\N\u0103m 3\\HK1\\ASP.Net Core\\22_10\\L\u00E0m l\u1EA1i EF cho flower store\\23WEBC_NHOM7_BAI4\\BT4\\TachLayout\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom4\\BT4\\TachLayout\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "TachLayout\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAABgAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-24T09:26:20.795Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-24T09:26:20.795Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "AdminController.cs",
-              "DocumentMoniker": "D:\\CDTH23WEBC\\N\u0103m 3\\HK1\\ASP.Net Core\\22_10\\L\u00E0m l\u1EA1i EF cho flower store\\23WEBC_NHOM7_BAI4\\BT4\\TachLayout\\Areas\\Admin\\Controllers\\AdminController.cs",
+              "DocumentMoniker": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom4\\BT4\\TachLayout\\Areas\\Admin\\Controllers\\AdminController.cs",
               "RelativeDocumentMoniker": "TachLayout\\Areas\\Admin\\Controllers\\AdminController.cs",
-              "ToolTip": "D:\\CDTH23WEBC\\N\u0103m 3\\HK1\\ASP.Net Core\\22_10\\L\u00E0m l\u1EA1i EF cho flower store\\23WEBC_NHOM7_BAI4\\BT4\\TachLayout\\Areas\\Admin\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom4\\BT4\\TachLayout\\Areas\\Admin\\Controllers\\AdminController.cs",
               "RelativeToolTip": "TachLayout\\Areas\\Admin\\Controllers\\AdminController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T09:31:59.683Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-24T09:31:59.683Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "AdminAuthorizeAttribute.cs",
-              "DocumentMoniker": "D:\\CDTH23WEBC\\N\u0103m 3\\HK1\\ASP.Net Core\\22_10\\L\u00E0m l\u1EA1i EF cho flower store\\23WEBC_NHOM7_BAI4\\BT4\\TachLayout\\Filters\\AdminAuthorizeAttribute.cs",
+              "DocumentMoniker": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom4\\BT4\\TachLayout\\Filters\\AdminAuthorizeAttribute.cs",
               "RelativeDocumentMoniker": "TachLayout\\Filters\\AdminAuthorizeAttribute.cs",
-              "ToolTip": "D:\\CDTH23WEBC\\N\u0103m 3\\HK1\\ASP.Net Core\\22_10\\L\u00E0m l\u1EA1i EF cho flower store\\23WEBC_NHOM7_BAI4\\BT4\\TachLayout\\Filters\\AdminAuthorizeAttribute.cs",
+              "ToolTip": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom4\\BT4\\TachLayout\\Filters\\AdminAuthorizeAttribute.cs",
               "RelativeToolTip": "TachLayout\\Filters\\AdminAuthorizeAttribute.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T09:29:14.205Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-24T09:29:14.205Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "AccountController.cs",
-              "DocumentMoniker": "D:\\CDTH23WEBC\\N\u0103m 3\\HK1\\ASP.Net Core\\22_10\\L\u00E0m l\u1EA1i EF cho flower store\\23WEBC_NHOM7_BAI4\\BT4\\TachLayout\\Controllers\\AccountController.cs",
+              "DocumentMoniker": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom4\\BT4\\TachLayout\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "TachLayout\\Controllers\\AccountController.cs",
-              "ToolTip": "D:\\CDTH23WEBC\\N\u0103m 3\\HK1\\ASP.Net Core\\22_10\\L\u00E0m l\u1EA1i EF cho flower store\\23WEBC_NHOM7_BAI4\\BT4\\TachLayout\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom4\\BT4\\TachLayout\\Controllers\\AccountController.cs",
               "RelativeToolTip": "TachLayout\\Controllers\\AccountController.cs",
               "ViewState": "AgIAACAAAAAAAAAAAAAwwCsAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T09:18:00.979Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-24T09:18:00.979Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "User.cs",
-              "DocumentMoniker": "D:\\CDTH23WEBC\\N\u0103m 3\\HK1\\ASP.Net Core\\22_10\\L\u00E0m l\u1EA1i EF cho flower store\\23WEBC_NHOM7_BAI4\\BT4\\TachLayout\\Models\\User.cs",
+              "DocumentMoniker": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom4\\BT4\\TachLayout\\Models\\User.cs",
               "RelativeDocumentMoniker": "TachLayout\\Models\\User.cs",
-              "ToolTip": "D:\\CDTH23WEBC\\N\u0103m 3\\HK1\\ASP.Net Core\\22_10\\L\u00E0m l\u1EA1i EF cho flower store\\23WEBC_NHOM7_BAI4\\BT4\\TachLayout\\Models\\User.cs",
+              "ToolTip": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom4\\BT4\\TachLayout\\Models\\User.cs",
               "RelativeToolTip": "TachLayout\\Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T08:41:51.184Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-24T08:41:51.184Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\CDTH23WEBC\\N\u0103m 3\\HK1\\ASP.Net Core\\22_10\\L\u00E0m l\u1EA1i EF cho flower store\\23WEBC_NHOM7_BAI4\\BT4\\TachLayout\\Program.cs",
+              "DocumentMoniker": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom4\\BT4\\TachLayout\\Program.cs",
               "RelativeDocumentMoniker": "TachLayout\\Program.cs",
-              "ToolTip": "D:\\CDTH23WEBC\\N\u0103m 3\\HK1\\ASP.Net Core\\22_10\\L\u00E0m l\u1EA1i EF cho flower store\\23WEBC_NHOM7_BAI4\\BT4\\TachLayout\\Program.cs",
+              "ToolTip": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom4\\BT4\\TachLayout\\Program.cs",
               "RelativeToolTip": "TachLayout\\Program.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAQwBsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T13:18:16.96Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T13:18:16.96Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "D:\\CDTH23WEBC\\N\u0103m 3\\HK1\\ASP.Net Core\\22_10\\L\u00E0m l\u1EA1i EF cho flower store\\23WEBC_NHOM7_BAI4\\BT4\\TachLayout\\Views\\Product\\Details.cshtml",
+              "DocumentMoniker": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom4\\BT4\\TachLayout\\Views\\Product\\Details.cshtml",
               "RelativeDocumentMoniker": "TachLayout\\Views\\Product\\Details.cshtml",
-              "ToolTip": "D:\\CDTH23WEBC\\N\u0103m 3\\HK1\\ASP.Net Core\\22_10\\L\u00E0m l\u1EA1i EF cho flower store\\23WEBC_NHOM7_BAI4\\BT4\\TachLayout\\Views\\Product\\Details.cshtml",
+              "ToolTip": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom4\\BT4\\TachLayout\\Views\\Product\\Details.cshtml",
               "RelativeToolTip": "TachLayout\\Views\\Product\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAGkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-22T13:40:07.459Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T13:40:07.459Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\CDTH23WEBC\\N\u0103m 3\\HK1\\ASP.Net Core\\22_10\\L\u00E0m l\u1EA1i EF cho flower store\\23WEBC_NHOM7_BAI4\\BT4\\TachLayout\\Views\\Product\\Index.cshtml",
+              "DocumentMoniker": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom4\\BT4\\TachLayout\\Views\\Product\\Index.cshtml",
               "RelativeDocumentMoniker": "TachLayout\\Views\\Product\\Index.cshtml",
-              "ToolTip": "D:\\CDTH23WEBC\\N\u0103m 3\\HK1\\ASP.Net Core\\22_10\\L\u00E0m l\u1EA1i EF cho flower store\\23WEBC_NHOM7_BAI4\\BT4\\TachLayout\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom4\\BT4\\TachLayout\\Views\\Product\\Index.cshtml",
               "RelativeToolTip": "TachLayout\\Views\\Product\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-22T13:38:02.142Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T13:38:02.142Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\CDTH23WEBC\\N\u0103m 3\\HK1\\ASP.Net Core\\22_10\\L\u00E0m l\u1EA1i EF cho flower store\\23WEBC_NHOM7_BAI4\\BT4\\TachLayout\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom4\\BT4\\TachLayout\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "TachLayout\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\CDTH23WEBC\\N\u0103m 3\\HK1\\ASP.Net Core\\22_10\\L\u00E0m l\u1EA1i EF cho flower store\\23WEBC_NHOM7_BAI4\\BT4\\TachLayout\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom4\\BT4\\TachLayout\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "TachLayout\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAADUAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-22T13:25:53.298Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T13:25:53.298Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "ProductController.cs",
-              "DocumentMoniker": "D:\\CDTH23WEBC\\N\u0103m 3\\HK1\\ASP.Net Core\\22_10\\L\u00E0m l\u1EA1i EF cho flower store\\23WEBC_NHOM7_BAI4\\BT4\\TachLayout\\Controllers\\ProductController.cs",
+              "DocumentMoniker": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom4\\BT4\\TachLayout\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "TachLayout\\Controllers\\ProductController.cs",
-              "ToolTip": "D:\\CDTH23WEBC\\N\u0103m 3\\HK1\\ASP.Net Core\\22_10\\L\u00E0m l\u1EA1i EF cho flower store\\23WEBC_NHOM7_BAI4\\BT4\\TachLayout\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom4\\BT4\\TachLayout\\Controllers\\ProductController.cs",
               "RelativeToolTip": "TachLayout\\Controllers\\ProductController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T13:41:58.305Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T13:41:58.305Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\CDTH23WEBC\\N\u0103m 3\\HK1\\ASP.Net Core\\22_10\\L\u00E0m l\u1EA1i EF cho flower store\\23WEBC_NHOM7_BAI4\\BT4\\TachLayout\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom4\\BT4\\TachLayout\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "TachLayout\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\CDTH23WEBC\\N\u0103m 3\\HK1\\ASP.Net Core\\22_10\\L\u00E0m l\u1EA1i EF cho flower store\\23WEBC_NHOM7_BAI4\\BT4\\TachLayout\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom4\\BT4\\TachLayout\\Controllers\\HomeController.cs",
               "RelativeToolTip": "TachLayout\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T13:25:40.804Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T13:25:40.804Z"
             }
           ]
         }
