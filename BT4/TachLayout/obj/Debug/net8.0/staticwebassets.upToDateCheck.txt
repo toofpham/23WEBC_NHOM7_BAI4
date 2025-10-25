@@ -1,6 +1,5 @@
 wwwroot\about.html
 wwwroot\bower.json
-wwwroot\checkout.html
 wwwroot\composer.json
 wwwroot\contact.html
 wwwroot\css\ddsmoothmenu.css
@@ -9,6 +8,7 @@ wwwroot\css\loginpartial.css
 wwwroot\css\nivo-slider.css
 wwwroot\css\orman.css
 wwwroot\css\slimbox2.css
+wwwroot\checkout.html
 wwwroot\dist\css\sb-admin-2.css
 wwwroot\dist\css\timeline.css
 wwwroot\dist\js\sb-admin-2.js
@@ -57,9 +57,9 @@ wwwroot\images\templatemo_footer.png
 wwwroot\images\templatemo_h2.png
 wwwroot\images\templatemo_header.jpg
 wwwroot\images\templatemo_header.png
+wwwroot\images\templatemo_header_subpage.jpg
 wwwroot\images\templatemo_headerrepeat.jpg
 wwwroot\images\templatemo_headerrepeat_subpage.jpg
-wwwroot\images\templatemo_header_subpage.jpg
 wwwroot\images\templatemo_image_01.jpg
 wwwroot\images\templatemo_list.png
 wwwroot\images\templatemo_logo.png
@@ -72,10 +72,10 @@ wwwroot\images\templatemo_sliderbg.png
 wwwroot\index.html
 wwwroot\js\ddsmoothmenu.js
 wwwroot\js\flot-data.js
-wwwroot\js\jquery-1.6.1.min.js
 wwwroot\js\jquery.min.js
 wwwroot\js\jquery.nivo.slider.js
 wwwroot\js\jquery.nivo.slider.pack.js
+wwwroot\js\jquery-1.6.1.min.js
 wwwroot\js\morris-data.js
 wwwroot\js\slimbox2.js
 wwwroot\less\index.html

@@ -1,0 +1,114 @@
+﻿@model TachLayout.Models.SanPham
+
+@{
+    ViewData["Title"] = "Thêm sản phẩm";
+    var danhMucs = ViewBag.DanhMucs as List<TachLayout.Models.DanhMuc>;
+}
+
+@section Title {
+    Thêm sản phẩm
+}
+
+<h2>Thêm sản phẩm</h2>
+
+@if (TempData["msg"] != null)
+{
+    <div class="alert alert-success">@TempData["msg"]</div>
+}
+
+<form asp-action="Them" method="post" enctype="multipart/form-data">
+    <div class="mb-3">
+        <label>Tên sản phẩm</label>
+        <input asp-for="TenSp" class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label>Giá</label>
+        <input asp-for="Gia" class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label>Giá khuyến mãi</label>
+        <input asp-for="GiaKm" class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label>Số lượng</label>
+        <input asp-for="SoLuong" class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label>Danh mục</label>
+        <select asp-for="MaDanhMuc" class="form-select" id="categorySelect">
+            @foreach (var dm in danhMucs)
+            {
+                <option value="@dm.MaDanhMuc">@dm.TenDanhMuc</option>
+            }
+        </select>
+        <button type="button" class="btn btn-sm btn-secondary mt-2" id="addCategoryBtn">+ Thêm danh mục</button>
+    </div>
+
+    <div class="mb-3">
+        <label>Ảnh sản phẩm</label>
+        <input type="file" name="uploadHinh" class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label>Mô tả</label>
+        <textarea asp-for="MoTa" class="form-control" rows="3"></textarea>
+    </div>
+
+    <div class="mb-3">
+        <label>TagName</label>
+        <input asp-for="TagName" class="form-control" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Thêm sản phẩm</button>
+</form>
+
+<!-- Modal thêm danh mục -->
+<div id="categoryModal" class="modal" tabindex="-1" style="display:none;">
+    <div class="modal-dialog">
+        <div class="modal-content p-3">
+            <h5>Thêm danh mục mới</h5>
+            <input type="text" id="newCategoryName" class="form-control mb-2" placeholder="Tên danh mục mới" />
+            <button id="saveCategory" class="btn btn-success">Lưu</button>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+    <script>
+        const modal = document.getElementById('categoryModal');
+        document.getElementById('addCategoryBtn').onclick = () => modal.style.display = 'block';
+
+        document.getElementById('saveCategory').onclick = async () => {
+            const name = document.getElementById('newCategoryName').value.trim();
+            if (!name) { alert('Vui lòng nhập tên danh mục'); return; }
+
+            const response = await fetch('/Admin/SanPham/ThemDanhMucAjax', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                    'RequestVerificationToken': document.querySelector('input[name="__RequestVerificationToken"]').value
+                },
+                body: JSON.stringify({ TenDanhMuc: name })
+            });
+
+            const data = await response.json();
+
+            if (data.success) {
+                const select = document.getElementById('categorySelect');
+                const opt = document.createElement('option');
+                opt.value = data.id;
+                opt.textContent = data.name;
+                select.appendChild(opt);
+                select.value = data.id;
+                modal.style.display = 'none';
+            } else {
+                alert(data.message);
+            }
+        };
+    </script>
+}

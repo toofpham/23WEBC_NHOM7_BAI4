@@ -1,0 +1,32 @@
+# Build results
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Backup and cache
+*.bak
+*.cache
+
+# Publish output
+wwwroot/
+dist/
+
+# Node modules (nếu có front-end)
+node_modules/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Database backup
+*.mdf
+*.ldf
+*.bak
