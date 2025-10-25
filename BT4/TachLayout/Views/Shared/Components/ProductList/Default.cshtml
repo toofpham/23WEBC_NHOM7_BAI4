@@ -1,0 +1,49 @@
+﻿@model IEnumerable<TachLayout.Models.SanPham>
+
+@if (Model != null && Model.Any())
+{
+    int productCount = 0;
+    foreach (var item in Model)
+    {
+        string imagePath = "~/images/product/default.jpg";
+        if (!string.IsNullOrEmpty(item.Hinh))
+        {
+            if (item.Hinh.StartsWith("/images/") || item.Hinh.StartsWith("~"))
+            {
+                imagePath = item.Hinh;
+            }
+            else
+            {
+                imagePath = "~/images/product/" + item.Hinh;
+            }
+        }
+
+        decimal giaHienThi = (item.GiaKm.HasValue && item.GiaKm.Value > 0) ? item.GiaKm.Value: item.Gia;
+
+        <div class="product_box @(productCount % 4 == 3 ? "no_margin_right" : "")">
+            <a asp-action="Details" asp-controller="Product" asp-route-id="@item.MaSp" >
+                <img src="@Url.Content(imagePath)" width="165" height="165"
+                     alt="@item.TenSp"
+                     onerror="this.onerror=null;this.src='@Url.Content("~/images/product/default.jpg")';" />
+            </a>
+            <h3>@item.TenSp</h3>
+            <p class="product_price">@String.Format("{0:N0} đồng", giaHienThi)</p>
+            <p class="add_to_cart">
+                
+                <a asp-action="Details" asp-controller="Product" asp-route-id="@item.MaSp">Detailss</a>
+                <a asp-controller="Cart" asp-action="Add" asp-route-id="@item.MaSp">Add to Cart</a>
+
+            </p>
+        </div>
+
+        productCount++;
+        if (productCount % 4 == 0)
+        {
+            <div class="cleaner"></div>
+        }
+    }
+}
+else
+{
+    <p>Không có sản phẩm nào để hiển thị.</p>
+}
