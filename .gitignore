@@ -1,0 +1,30 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+Debug/
+Release/
+*.log
+
+# Other files
+*.swp
+*.tmp
+*.cache
+*.dbmdl
+*.bak
+*.dll
+*.exe
+*.pdb
+*.mdb
+
+# Publish folder
+publish/
+
+# ASP.NET scaffolded files
+wwwroot/uploads/temp/

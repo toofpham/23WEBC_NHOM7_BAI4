@@ -125,7 +125,9 @@ http://www.templatemo.com/preview/templatemo_385_floral_shop
       </div>
 
 
-      <div id="templatemo_footer_wrapper">
+      <!--  🔹 Gọi ViewComponent “WebSetting” chứa footer và cài đặt website-->
+     @await Component.InvokeAsync("WebSetting")
+      @* <div id="templatemo_footer_wrapper">
         <div id="templatemo_footer">
           <div class="footer_left">
             <a href="#"
@@ -154,7 +156,7 @@ http://www.templatemo.com/preview/templatemo_385_floral_shop
         </div>
         <!-- END of footer -->
       </div>
-      <!-- END of footer wrapper -->
+      <!-- END of footer wrapper --> *@
     </div>
   </body>
 </html>

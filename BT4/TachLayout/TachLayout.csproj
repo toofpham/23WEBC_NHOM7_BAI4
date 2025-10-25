@@ -19,4 +19,9 @@
     </PackageReference>
   </ItemGroup>
 
+	<ItemGroup>
+	  <Folder Include="Areas\Admin\ViewComponents\" />
+	</ItemGroup>
+
+
 </Project>

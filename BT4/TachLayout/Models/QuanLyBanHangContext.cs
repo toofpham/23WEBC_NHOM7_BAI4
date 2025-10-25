@@ -188,7 +188,7 @@ public partial class QuanLyBanHangContext : DbContext
             entity.Property(e => e.WebSettingId).HasColumnName("WebSettingID");
             entity.Property(e => e.DiaChi).HasMaxLength(255);
             entity.Property(e => e.Email).HasMaxLength(255);
-            entity.Property(e => e.Hotline).HasMaxLength(20);
+            entity.Property(e => e.HotLine).HasMaxLength(20);
             entity.Property(e => e.Logo).HasMaxLength(255);
             entity.Property(e => e.TenSite).HasMaxLength(255);
         });
