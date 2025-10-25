@@ -12,6 +12,8 @@ namespace TachLayout
             // Add services to the container.
             builder.Services.AddControllersWithViews();
 
+            builder.Services.AddScoped<TachLayout.Services.WebSettingService>();
+
             // K?t n?i SQL Server   
             builder.Services.AddDbContext<QuanLyBanHangContext>(option =>
             option.UseSqlServer(builder.Configuration.GetConnectionString("QuanLyBanHangConnection")));
