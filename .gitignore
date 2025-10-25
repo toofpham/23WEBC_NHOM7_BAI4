@@ -1,0 +1,23 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build outputs
+bin/
+obj/
+Debug/
+Release/
+
+# ASP.NET / EF cache
+*.dbmdl
+*.jfm
+*.ldf
+*.mdf
+
+# Logs
+*.log
+
+# Node
+node_modules/
+npm-debug.log*
