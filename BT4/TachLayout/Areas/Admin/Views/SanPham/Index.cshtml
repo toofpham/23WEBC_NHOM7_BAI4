@@ -1,0 +1,60 @@
+﻿
+@{
+    ViewData["Title"] = "Danh sách sản phẩm";
+    var sanPhams = ViewBag.SanPhams as List<TachLayout.Models.SanPham>;
+}
+
+@section Title {
+        Danh sách sản phẩm
+}
+
+<h2>Danh sách sản phẩm</h2>
+
+@if (TempData["msg"] != null)
+{
+    <div class="alert alert-success">@TempData["msg"]</div>
+}
+
+<a asp-action="Them" class="btn btn-primary mb-3">+ Thêm sản phẩm</a>
+
+<table class="table table-bordered table-hover align-middle text-center">
+    <thead class="table-dark">
+        <tr>
+            <th>Hình</th>
+            <th>Tên sản phẩm</th>
+            <th>Giá</th>
+            <th>Giá KM</th>
+            <th>Danh mục</th>
+            <th>Số lượng</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (sanPhams != null && sanPhams.Any())
+        {
+            foreach (var sp in sanPhams)
+            {
+                <tr>
+                    <td style="width:120px;">
+                        <img src="@sp.Hinh" alt="@sp.TenSp" class="img-thumbnail" style="max-height:80px;" />
+                    </td>
+                    <td>@sp.TenSp</td>
+                    <td>@string.Format("{0:N0}₫", sp.Gia)</td>
+                    <td>@string.Format("{0:N0}₫", sp.GiaKm)</td>
+                    <td>@sp.MaDanhMucNavigation?.TenDanhMuc</td>
+                    <td>@sp.SoLuong</td>
+                </tr>
+            }
+        }
+        else
+        {
+            <tr><td colspan="7">Chưa có sản phẩm nào</td></tr>
+        }
+    </tbody>
+</table>
+
+@section Scripts {
+    <script>
+        // Nếu bạn muốn thêm JS riêng cho trang index thì thêm ở đây
+        console.log("Trang Danh sách sản phẩm đã load");
+    </script>
+}

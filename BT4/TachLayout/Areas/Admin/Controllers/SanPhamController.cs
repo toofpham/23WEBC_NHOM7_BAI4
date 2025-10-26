@@ -5,6 +5,9 @@ using TachLayout.Models;
 namespace TachLayout.Areas.Admin.Controllers
 {
     [Area("Admin")]
+
+    
+
     public class SanPhamController : Controller
     {
         private readonly QuanLyBanHangContext _context;
@@ -14,6 +17,17 @@ namespace TachLayout.Areas.Admin.Controllers
         {
             _context = context;
             _env = env;
+        }
+        // GET: /Admin/SanPham
+        public async Task<IActionResult> Index()
+        {
+            var sanPhams = await _context.SanPhams
+                .Include(sp => sp.MaDanhMucNavigation)
+                .OrderByDescending(sp => sp.MaSp)
+                .ToListAsync();
+
+            ViewBag.SanPhams = sanPhams;
+            return View();
         }
 
         // GET: /Admin/SanPham/Them
