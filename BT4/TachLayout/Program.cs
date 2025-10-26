@@ -9,14 +9,18 @@ namespace TachLayout
         {
             var builder = WebApplication.CreateBuilder(args);
 
+
+           
+            
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+            
 
             builder.Services.AddScoped<TachLayout.Services.WebSettingService>();
 
             // K?t n?i SQL Server   
             builder.Services.AddDbContext<QuanLyBanHangContext>(option =>
-            option.UseSqlServer(builder.Configuration.GetConnectionString("QuanLyBanHangConnection")));
+                option.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
             // DuyKhang edit
             builder.Services.AddDistributedMemoryCache();
             builder.Services.AddSession(options =>
@@ -36,12 +40,13 @@ namespace TachLayout
                 // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
                 app.UseHsts();
             }
-            app.UseSession();// duykhang edit
+           
             app.UseHttpsRedirection();
             app.UseStaticFiles();
 
 
             app.UseRouting();
+            app.UseSession();// duykhang edit
 
             app.UseAuthorization();
 
