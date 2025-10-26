@@ -756,3 +756,4 @@ E:\Năm 3\ASP\BT4\23WEBC_NHOM7_BAI4\BT4\TachLayout\obj\Debug\net8.0\refint\TachL
 E:\Năm 3\ASP\BT4\23WEBC_NHOM7_BAI4\BT4\TachLayout\obj\Debug\net8.0\TachLayout.pdb
 E:\Năm 3\ASP\BT4\23WEBC_NHOM7_BAI4\BT4\TachLayout\obj\Debug\net8.0\TachLayout.genruntimeconfig.cache
 E:\Năm 3\ASP\BT4\23WEBC_NHOM7_BAI4\BT4\TachLayout\obj\Debug\net8.0\ref\TachLayout.dll
+D:\ckc\nam3hk1\ASPNET core\23WEBC_NHOM7\baitapnhom4\23WEBC_NHOM7_BAI4\BT4\TachLayout\obj\Debug\net8.0\TachLayout.sourcelink.json

@@ -57,7 +57,7 @@
                         <td>
                             @if (!string.IsNullOrEmpty(item.Hinh))
                             {
-                                <img src="~/images/product/@item.Hinh" width="70" alt="@item.TenSp"
+                                <img src="@item.Hinh" width="70" alt="@item.TenSp"
                                      onerror="this.src='~/images/no-image.jpg'" />
                             }
                             
